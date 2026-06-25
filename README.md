@@ -30,9 +30,9 @@ The objective was to develop foundational security monitoring skills that are ap
 
  ## Technical Report
 
-A full investigation report is available in:
+For a detailed breakdown of the methodology, protocol analysis, DNS investigation, TLS inspection, TCP handshake verification, and security observations, see the full report:
 
-'report.md'
+➡️ [Network Traffic Analysis Report](report.md)
 
 ## Cloud Security Relevance
 
