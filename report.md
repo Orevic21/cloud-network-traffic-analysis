@@ -214,6 +214,7 @@ Endpoint statistics identified both local and external communication participant
 ### Screenshot Evidence
 
 <img width="1573" height="550" alt="endpoint_anaylsis" src="https://github.com/user-attachments/assets/70a8e3b1-ce28-401b-85e3-11faff5e1df1" />
+
 ### Analyst Observation
 
 Endpoint analysis assists security analysts in identifying active hosts, communication patterns, and systems generating network traffic within monitored environments.
