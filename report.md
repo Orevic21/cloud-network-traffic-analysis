@@ -244,7 +244,7 @@ These skills align closely with responsibilities commonly associated with Securi
 5. Utilize network traffic analysis as part of ongoing security monitoring efforts.
 
 ---
-# 10. Limitaions
+# 10. Limitations
 
 1. Analysis was performed on a short-duration packet capture.
 2. Traffic represents normal user activity and not a simulated attack scenario..
